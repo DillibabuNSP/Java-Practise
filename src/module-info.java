@@ -6,4 +6,5 @@
  *
  */
 module javapractise {
+	requires poi.ooxml;
 }
